@@ -1,9 +1,11 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://gowtham-chokkalingam.io)
-<h1 align="center">Hi 👋, I'm Gowtham</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif](https://gowtham-chokkalingam.io)
 
-<img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif" alt="gowtham-chokkalingam-img" />
+<h1 align="center">Hi 👋, I'm Gowtham</h1>
+<h3 align="center">A Passionate Full Stack Web-Developer </h3>
+
+<!-- <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif" alt="gowtham-chokkalingam-img" /> -->
+<img align="right" alt="Coding" width="200"   src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowtham-chokkalingam&label=Profile%20views&color=0e75b6&style=flat" alt="gowtham-chokkalingam" /> </p>
@@ -12,7 +14,7 @@
 
 - 📫 How to reach me **gowthamtceian@gmail.com**
 
-- ⚡ Fun fact **Am a travel addict.**
+- ⚡ Fun fact **Am a take it easy guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +27,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gowtham-chokkalingam&show_icons=true&locale=en" alt="gowtham-chokkalingam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gowtham-chokkalingam&" alt="gowtham-chokkalingam" /></p>
+
+<!-- - 👋 Hi, I’m @Gowtham-Chokkalingam....
+- 👀 I’m interested in coding....
+- 🌱 I’m currently learning Full Stack Web-Development....
+- 💞️ I’m looking to collaborate on Web-Development Projects ...
+- 📫 How to reach me email - gowthamtceian@gmail.com || Linkedin - https://www.linkedin.com/in/gowthamchokkalingam... -->
+
+<!---
+Gowtham-Chokkalingam/Gowtham-Chokkalingam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
