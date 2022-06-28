@@ -1,11 +1,11 @@
 
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif](https://gowtham-chokkalingam.io)
+[![MasterHead]( https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://gowtham-chokkalingam.io)
 
 <h1 align="center">Hi 👋, I'm Gowtham</h1>
 <h3 align="center">A Passionate Full Stack Web-Developer </h3>
 
 <!-- <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif" alt="gowtham-chokkalingam-img" /> -->
-<img align="right" alt="Coding" width="200"   src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" />
+<img align="right" alt="Coding" width="250"   src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowtham-chokkalingam&label=Profile%20views&color=0e75b6&style=flat" alt="gowtham-chokkalingam" /> </p>
