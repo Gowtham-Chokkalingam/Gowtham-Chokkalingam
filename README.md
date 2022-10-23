@@ -8,7 +8,9 @@
 
 <!-- - 🔭 I’m currently learning on **[MEARN Stack](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I’m currently learning **MERN Stack & Data Structures and Algorithms**
+- 🌱 I'm creative, expressive, Passionate Full-Stack Web developer with hands-on experience in developing and cloning scalable websites using a wide range of front-end and back-end skills like HTML, CSS, JavaScript, and React. Looking to further enhance the latest versions of React, HTML, CSS and JS skills as a future Full-Stack developer. 
+  
+- I'm currently learning **MERN Stack & Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -20,7 +22,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"  style="display:flex; flex-wrap:wrap"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -31,7 +33,7 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank">  <img src="data:image/png;base64,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"></a>
   
 </p>
 
