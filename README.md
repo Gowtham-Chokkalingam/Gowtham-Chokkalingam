@@ -8,9 +8,9 @@
 
 <!-- - 🔭 I’m currently learning on **[MEARN Stack](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I'm creative, expressive, Passionate Full-Stack Web developer with hands-on experience in developing and cloning scalable websites using a wide range of front-end and back-end skills like HTML, CSS, JavaScript, and React. Looking to further enhance the latest versions of React, HTML, CSS and JS skills as a future Full-Stack developer. 
+- 👋 I'm creative, expressive, Passionate Full-Stack Web developer with hands-on experience in developing and cloning scalable websites using a wide range of front-end and back-end skills like HTML, CSS, JavaScript, and React. Looking to further enhance the latest versions of React, HTML, CSS and JS skills as a future Full-Stack developer. 
   
-- I'm currently learning **MERN Stack & Data Structures and Algorithms**
+- 👀 I'm currently learning **MERN Stack & Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -40,18 +40,21 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
+
+
+## 📊 My Github Stats
+
 <p align="center">
     <a href="https://github.com/gowtham-chokkalingam/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gowtham streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Gowtham-Chokkalingam&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-## 📊 My Github Stats
-
+<div align="center"> 
   <br/>
     <a href="https://github.com/gowtham-chokkalingam/github-readme-stats"><img alt="Gowtham Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gowtham-Chokkalingam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/gowtham-chokkalingam/github-readme-stats"><img alt="Gowtham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-Chokkalingam&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+</div>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
