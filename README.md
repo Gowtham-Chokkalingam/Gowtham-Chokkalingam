@@ -10,15 +10,20 @@
 
 - 👋 I'm creative, expressive, Passionate Full-Stack Web developer with hands-on experience in developing and cloning scalable websites using a wide range of front-end and back-end skills like HTML, CSS, JavaScript, and React. Looking to further enhance the latest versions of React, HTML, CSS and JS skills as a future Full-Stack developer. 
   
-- 👀 I'm currently learning **MERN Stack & Data Structures and Algorithms**
+<!-- - 👀 I'm currently learning **MERN Stack & Data Structures and Algorithms** -->
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
+- ✔️ I aspire to work as a **Full-Stack Developer**..
+
+<!-- - ✔️I'm a fast learner looking for interesting career opportunities in Web as a **Full-Stack Developer**. -->
+
+- ✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://gowtham-chokkalingam.github.io/)**
 
 - 📫 How to reach me **gowthamtceian@gmail.com**
 
-- ⚡ Fun fact **I play Cricket very often**
+<!-- - ⚡ Fun fact **I play Cricket very often** -->
 
 ## 🚀 Languages and Tools:
 
