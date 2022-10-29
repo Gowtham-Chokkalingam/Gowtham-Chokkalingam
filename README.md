@@ -1,4 +1,8 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+
+<div align="center"> 
+<img align="center" style="border-radius:10%" width="60%" height="60%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="175px"/>
+</div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gowtham</h1>
 <h3 align="center">I'm An Aspiring Full Stack Developer</h3>
@@ -53,6 +57,7 @@
     <a href="https://github.com/gowtham-chokkalingam/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gowtham streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Gowtham-Chokkalingam&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
+   
 </p>
 <div align="center"> 
   <br/>
