@@ -23,7 +23,9 @@
 
 - ✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://gowtham-chokkalingam.github.io/)**
+- ✔️ All of my projects are available at **[My Portfolio](https://gowtham-chokkalingam.github.io/)**
+
+- ✔️ My details and work experience are available at **[My Resume](https://drive.google.com/file/d/1jYTKxfdev3O7b_sbAnDAb4D1ql03IZOc/view?usp=share_link)**
 
 - 📫 You can reach me through **gowthamtceian@gmail.com** || **[LinkedIn](https://www.linkedin.com/in/gowthamchokkalingam/)**
 
