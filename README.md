@@ -1,7 +1,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
 <div align="center"> 
-<img align="center" style="border-radius:50%" width="280px" height="260px" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="175px"/>
+<img align="center" width="280px" height="260px" style="border-radius:50%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="175px"/>
 </div>
 
 <h1 style="margin-top:40px" align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gowtham</h1>
