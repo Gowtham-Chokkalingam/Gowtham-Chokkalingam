@@ -1,10 +1,10 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
 <div align="center"> 
-<img align="center" style="border-radius:10%" width="60%" height="60%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="175px"/>
+<img align="center" style="border-radius:50%" width="280px" height="260px" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="175px"/>
 </div>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gowtham</h1>
+<h1 style="margin-top:40px" align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gowtham</h1>
 <h3 align="center">I'm An Aspiring Full Stack Developer</h3>
 
 
@@ -16,18 +16,18 @@
   
 <!-- - 👀 I'm currently learning **MERN Stack & Data Structures and Algorithms** -->
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- ✔️ I aspire to work as a **Full-Stack Developer**..
+- 🤝 I’m looking to collaborate on **OpenSource Projects**
+- 💻 I aspire to work as a **Full-Stack Developer**..
 
 <!-- - ✔️I'm a fast learner looking for interesting career opportunities in Web as a **Full-Stack Developer**. -->
 
-- ✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.
+- 👨‍💻 Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.
 
 - ✔️ All of my projects are available at **[My Portfolio](https://gowtham-chokkalingam.github.io/)**
 
 - ✔️ My details and work experience are available at **[My Resume](https://drive.google.com/file/d/1jYTKxfdev3O7b_sbAnDAb4D1ql03IZOc/view?usp=share_link)**
 
-- 📫 You can reach me through **gowthamtceian@gmail.com** || **[LinkedIn](https://www.linkedin.com/in/gowthamchokkalingam/)**
+- 💬 You can reach me through **gowthamtceian@gmail.com** || **[LinkedIn](https://www.linkedin.com/in/gowthamchokkalingam/)**
 
 <!-- - ⚡ Fun fact **I play Cricket very often** -->
 
@@ -79,14 +79,12 @@
 <br/>
 
 ## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/gowthamchokkalingam/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/gowtham_talkies/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<div>
+<a href = "https://www.instagram.com/gowtham_talkies/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a><a href = "https://www.linkedin.com/in/gowthamchokkalingam/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.youtube.com/channel/UCx63I9UqWkLHM1NVfFgXZQA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p>
+<!-- <a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
+</div>
+<!-- <a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
