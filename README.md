@@ -63,8 +63,11 @@
 </p>
 <div align="center"> 
   <br/>
-    <a href="https://github.com/gowtham-chokkalingam/github-readme-stats"><img alt="Gowtham Github-Stats" src="https://github-readme-stats.vercel.app/api?username=Gowtham-Chokkalingam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/gowtham-chokkalingam/github-readme-stats"><img alt="Gowtham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-Chokkalingam&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <!-- <a href="https://github.com/gowtham-chokkalingam/github-readme-stats"><img alt="Gowtham Github-Stats" src="https://github-readme-stats.vercel.app/api?username=Gowtham-Chokkalingam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+  <!-- <a href="https://github.com/gowtham-chokkalingam/github-readme-stats"><img alt="Gowtham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-Chokkalingam&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gowtham-Chokkalingam&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="gowtham" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gowtham-Chokkalingam&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="gowtham" /></p>
   <br/>
 </div>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -75,6 +78,8 @@
 
 <!-- Git Activty graph -->
 <!-- <a href="https://github.com/Gowtham-Chokkalingam/github-readme-activity-graph"><img alt="Gowtham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula" /></a> -->
+
+
 
 
 
