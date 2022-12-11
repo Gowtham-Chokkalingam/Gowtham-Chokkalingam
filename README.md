@@ -65,6 +65,8 @@
   <br/>
     <!-- <a href="https://github.com/gowtham-chokkalingam/github-readme-stats"><img alt="Gowtham Github-Stats" src="https://github-readme-stats.vercel.app/api?username=Gowtham-Chokkalingam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
   <!-- <a href="https://github.com/gowtham-chokkalingam/github-readme-stats"><img alt="Gowtham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-Chokkalingam&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+
+  
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gowtham-Chokkalingam&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="gowtham" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gowtham-Chokkalingam&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="gowtham" /></p>
@@ -76,11 +78,22 @@
 <br/>
 <br/>
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gowtham-Chokkalingam&theme=2077"/>
+
 <!-- Git Activty graph -->
 <!-- <a href="https://github.com/Gowtham-Chokkalingam/github-readme-activity-graph"><img alt="Gowtham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula" /></a> -->
 
+<!-- <h2> 📊 Github Stats ....</h2>
+<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gowtham-Chokkalingam&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gowtham-Chokkalingam&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gowtham-Chokkalingam&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gowtham-Chokkalingam&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gowtham-Chokkalingam&theme=solarized_dark&utcOffset=8">
+	
+</div> -->
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <a href="https://github.com/Gowtham-Chokkalingam/github-readme-activity-graph"><img alt="Gowtham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Gowtham-Chokkalingam&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
