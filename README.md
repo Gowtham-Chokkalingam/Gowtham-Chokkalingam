@@ -71,14 +71,19 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gowtham-Chokkalingam&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="gowtham" /></p>
   <br/>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gowtham-Chokkalingam&theme=2077"/>
+
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+<br/>
+
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+</div>
 
 <br/>
-<br/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gowtham-Chokkalingam&theme=2077"/>
 
 <!-- Git Activty graph -->
 <!-- <a href="https://github.com/Gowtham-Chokkalingam/github-readme-activity-graph"><img alt="Gowtham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula" /></a> -->
@@ -96,7 +101,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<a href="https://github.com/Gowtham-Chokkalingam/github-readme-activity-graph"><img alt="Gowtham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Gowtham-Chokkalingam&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/Gowtham-Chokkalingam/github-readme-activity-graph"><img alt="Gowtham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Gowtham-Chokkalingam&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
