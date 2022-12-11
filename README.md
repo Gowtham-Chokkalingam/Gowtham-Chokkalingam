@@ -66,15 +66,16 @@
     <!-- <a href="https://github.com/gowtham-chokkalingam/github-readme-stats"><img alt="Gowtham Github-Stats" src="https://github-readme-stats.vercel.app/api?username=Gowtham-Chokkalingam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
   <!-- <a href="https://github.com/gowtham-chokkalingam/github-readme-stats"><img alt="Gowtham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-Chokkalingam&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
 
-  
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gowtham-Chokkalingam&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="gowtham" /></p>
+  <div style="width:90%;display:flex;align-items:center; gap:10px; justify-content:center">
+  <img  style="height:300px;width:80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gowtham-Chokkalingam&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="gowtham" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gowtham-Chokkalingam&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="gowtham" /></p>
+<img style="height:300px;width:80%" align="center" src="https://github-readme-stats.vercel.app/api?username=Gowtham-Chokkalingam&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="gowtham" />
+
+</div>
   <br/>
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gowtham-Chokkalingam&theme=2077"/>
 
-</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 <br/>
