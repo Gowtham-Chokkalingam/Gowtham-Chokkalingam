@@ -13,7 +13,7 @@
 
 <!-- - 🔭 I’m currently learning on **[MEARN Stack](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 👋 I'm creative, expressive, Passionate Full-Stack Web developer with hands-on experience in developing and cloning scalable websites using a wide range of front-end and back-end skills like HTML, CSS, JavaScript, ReactJs,NodeJs,Express,MongoDb. Looking to further enhance the latest versions of React, Node, HTML, CSS and JS skills as a future Full-Stack developer. 
+- 👋 I'm creative, expressive, Passionate Full-Stack Web developer with hands-on experience in developing and cloning scalable websites using a wide range of front-end and back-end skills like HTML, CSS, JavaScript, ReactJs, NodeJs,Express,MongoDb. Looking to further enhance the latest versions of React, Node, HTML, CSS and JS skills as a future Full-Stack developer. 
   
 <!-- - 👀 I'm currently learning **MERN Stack & Data Structures and Algorithms** -->
 
