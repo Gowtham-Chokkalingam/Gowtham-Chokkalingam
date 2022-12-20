@@ -1,4 +1,5 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+<!--Note--  ctrl + shit + p  and search markdown preview--> 
 
 <div align="center"> 
 <img align="center" width="70%" height="60%" style="border-radius:10%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="175px"/>
