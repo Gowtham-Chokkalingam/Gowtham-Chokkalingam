@@ -6,7 +6,10 @@
 </div>
 
 <h1 style="margin-top:40px" align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gowtham</h1>
+
 <h3 align="center">I'm An Aspiring Full Stack Developer</h3>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## 🙋‍♂️ About Me
