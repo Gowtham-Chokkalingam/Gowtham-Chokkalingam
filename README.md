@@ -27,7 +27,7 @@
 
 - 👨‍💻 Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.
 - 
-- 💬 Ask me about ReactJS, NodeJS, JS, CSS OR HTML
+- 💬 Ask me about ReactJS, NodeJS, JWT, Redux, JS, CSS ,HTML .
 
 - ✔️ All of my projects are available at **[My Portfolio](https://gowtham-chokkalingam.github.io/)**
 
