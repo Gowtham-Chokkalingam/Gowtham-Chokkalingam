@@ -27,8 +27,8 @@
 
 - 👨‍💻 Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.
   
-- 💬 Ask me about ReactJS, NodeJS, Redux, JWT, JS, CSS ,HTML .
-
+- 💬 Ask me about ReactJS, NodeJS, Redux, JWT, JS, CSS ,HTML.
+- 💻 Most used line of code  `git commit -m "Initial Commit"`
 - 🔭 I’m currently working on Clone of **[FlipKart](https://filpkart-clone-clientgc.onrender.com/)** Website
 
 - ✔️ All of my projects are available at **[My Portfolio](https://gowtham-chokkalingam.github.io/)**
